@@ -25,7 +25,6 @@ The resources in this repository are intended to support **reproducibility** and
 ## 📊 Dataset
 
 * `dataset.csv`: The curated dataset of LLM inference engine bugs, including metadata and classification labels used in the paper.
-* (Add other files/scripts here if applicable.)
 
 ---
 
@@ -42,12 +41,13 @@ The resources in this repository are intended to support **reproducibility** and
 If you use this dataset or repository in your research, please cite our TOSEM paper:
 
 ```bibtex
-@article{liu2024bugsllminference,
-  title={A First Look at Bugs in LLM Inference Engines},
-  author={Liu, Mugeng and Zhong, Siqi and Bi, Weichen and Zhang, Yixuan and Chen, Zhiyang and Chen, Zhenpeng and Liu, Xuanzhe and Ma, Yun},
-  journal={ACM Transactions on Software Engineering and Methodology},
-  year={2024},
-  doi={10.1145/3788873}
+@article{10.1145/3788873,
+  author = {Liu, Mugeng and Zhong, Siqi and Bi, Weichen and Zhang, Yixuan and Chen, Zhiyang and Chen, Zhenpeng and Liu, Xuanzhe and Ma, Yun},
+  title = {A First Look at Bugs in LLM Inference Engines},
+  year = {2026},
+  publisher = {Association for Computing Machinery},
+  doi = {10.1145/3788873},
+  journal = {ACM Trans. Softw. Eng. Methodol.}
 }
 ```
 
